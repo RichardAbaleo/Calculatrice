@@ -16,3 +16,7 @@ php -S 127.0.0.1:8000
 
 
 ## Concepts de la POO
+
+- L'encapsulation qui avec des méthodes permet de manipuler les données de classe avec des méthodes, ce qui permet leurs limitations
+- L'héritage permettant à une classe "fille" d'utiliser des méthodes de la classe "mère" 
+- L'abstaction qui permet de simplifier la complexité du code pour l'utilisation
